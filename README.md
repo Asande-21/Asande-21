@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Asande 👋
 
-<!--
-**Asande-21/Asande-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Data Science student
 
-Here are some ideas to get you started:
+I enjoy building software solutions using:
+- C++
+- Python
+- Java/ Kotlin
+- Android Development
+- Artificial Intelligence & ML
+- Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🧛 Vampire Quiz Saga
+A story-driven quiz adventure built with C++ and SFML.
+
+### 💰 Retirement Simulator
+An AI-powered retirement prediction tool using Python and Streamlit.
+
+### 🗺️ SA Smart Navigator (In Development)
+An Android navigation assistant focused on smart routing,
+South African language support, and road-trip features.
+
+## 🛠️ Technologies
+
+Languages:
+- C++
+- Python
+- Java
+- Kotlin
+- SAS
+
+Tools:
+- Android Studio
+- Git/GitHub
+- Streamlit
+- SFML
+
+## Currently Learning
+- Machine Learning
+- AI Systems
+- Mobile Development
+- Algorithms
